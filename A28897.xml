@@ -1,0 +1,3175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A register of the doctors of physick in our two universities of Cambridge and Oxford</title>
+            <author>Badger, John, fl. 1693.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 60 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28897</idno>
+            <idno type="STC">Wing B385</idno>
+            <idno type="STC">ESTC R12511</idno>
+            <idno type="EEBO-CITATION">11692414</idno>
+            <idno type="OCLC">ocm 11692414</idno>
+            <idno type="VID">48220</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A28897)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48220)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 10:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A register of the doctors of physick in our two universities of Cambridge and Oxford</title>
+                  <author>Badger, John, fl. 1693.</author>
+               </titleStmt>
+               <extent>[4], 5-25, [6] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to John Badger. Cf. NUC pre-1956.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>University of Cambridge --  Alumni and alumnae.</term>
+               <term>University of Oxford --  Alumni and alumnae.</term>
+               <term>Physicians --  England --  Registers.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:48220:1" rendition="simple:additions"/>
+            <p>A REGISTER OF THE Doctors of Phyſick In Our Two UNIVERSITIES OF <hi>Cambridge</hi> and <hi>Oxford.</hi>
+            </p>
+            <p>Printed in the Year 1695.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:48220:2" rendition="simple:additions"/>
+            <head>TO THE READER.</head>
+            <p>MY Deſign is not in the leaſt to reflect upon the Learned and Regular Phyſicians of the <hi>College,</hi> whom I ſincerely honour for their Judgment and Integrity, but to lay open the Ig<g ref="char:EOLhyphen"/>norance and Fraud of a certain Cabal, who have crept into that Society by indirect or baſe means, and do every where boaſt among the Ignorant, that they are Members of the <hi>College,</hi> while they are the diſgrace and reproach of it, and have nothing elſe to value themſelves upon, but their fooliſh cracking, <hi>the College, the College,</hi> and <hi>I am of the College,</hi> at the expence of its Honour and Reputation. Some of theſe have been Fanatick Preachers, Splitters of Cauſes, Serving<g ref="char:EOLhyphen"/>men, and Mechanicks, who never well un<g ref="char:EOLhyphen"/>derſtood the Firſt Rudiments of Learning, and yet by their Impudence and Tricks, under the Cover of ſome Foreign Prince or Embaſſador (one diſguiſing his Name by an <hi>Out-Landiſh</hi> Pronunciation, another Writing it in <hi>Latin,</hi> for fear of being known) or by ſome Man<g ref="char:EOLhyphen"/>date ſurreptitiouſly procured, have ſtolen the Degree of Doctor from our Univerſities; whilſt
+<pb facs="tcp:48220:2"/>others fly beyond Sea to ſome Foreign Univerſi<g ref="char:EOLhyphen"/>ty, and there obtain that Degree by the powerful perſwaſive of Money, which their Ignorance was uncapable of at Home, and then they return as wiſe as they went, adorned with the Fine Flumes of a Traveller and a Doctor. Theſe are the moſt ar<g ref="char:EOLhyphen"/>rogant Pretenders, who would engroſs to them<g ref="char:EOLhyphen"/>ſelves all the Knowledge and Practice of Phyſick, whilſt they do not know ſo much as the Names of Diſeaſes, and much leſs the Virtues of Medicines; and yet they ſtrut and ſwagger with the Name of the <hi>College,</hi> as if that were a ſufficient Charm to Qualifie them for that Noble Profeſſion of Phy<g ref="char:EOLhyphen"/>ſick; and ſuperciliouſly deſpiſe all others, even thoſe who have been Regularly admitted Doctors in our own Univerſities, as Quacks and Moun<g ref="char:EOLhyphen"/>tebancks, whom themſelves do ſo nearly re<g ref="char:EOLhyphen"/>ſemble by their Ignorance and Confidence, that they have nothing but the Name of the <hi>College</hi> to diſtinguiſh them. Theſe are they that Aſſume to themſelves the Sole Government of that Society, and admit whom they pleaſe for Money, without Examination, and however otherwiſe unqua<g ref="char:EOLhyphen"/>lified; but exclude others that are Regularly ad<g ref="char:EOLhyphen"/>mitted Doctors. This is the miſerable state of the <hi>College</hi> at preſent, in which ſuch men bear Rule, who (by the Confederacy of ſome Doctors of our own Univerſities whom they have cullied into their Cabal) have erected and eſtabliſhed a
+<pb facs="tcp:48220:3"/>Scandalous Monopoly of Phyſick, to the great Diſ<g ref="char:EOLhyphen"/>honour of the Profeſſion, Detriment of the Univer<g ref="char:EOLhyphen"/>ſities, and infinite Prejudice of Mens Lives. Now the <hi>College</hi> being at preſent made up of ſo many Foreign, and ſo few Legal and truly Honourable Doctors of our own Univerſities, and the miſchief ſtill ſpreading further, ſo that in time there are like to be none (but what have taken their Degrees Abroad, or of their Cabal) allowed by their Mono<g ref="char:EOLhyphen"/>poly to practiſe Phyſick, or by them owned to be Phyſicians: It is therefore thought convenient, for preventing this growing evil, to preſent the World with a true Catalogue of the Doctors in Phyſick of our Two Univerſities, diligently and carefully collected out of the Regiſters of <hi>Oxford</hi> and <hi>Cambridge,</hi> thatſo by examining the Cata<g ref="char:EOLhyphen"/>logue of their <hi>College</hi> (ſo often Printed and di<g ref="char:EOLhyphen"/>ſperſed about the Town) with theſe of our Univerſities, every one may be able to diſtin<g ref="char:EOLhyphen"/>guiſh the Legal and truly Honourable Phyſici<g ref="char:EOLhyphen"/>ans, from the Baſe, Illegitimate, Domineering <hi>By-blows of Aeſculapius;</hi> and that they finding themſelves detected, may be aſhamed of their proceedings, and good Men be encouraged to take their Degrees Regularly at Home in our own Univerſities.</p>
+         </div>
+      </front>
+      <body>
+         <div type="list_of_doctors">
+            <pb n="5" facs="tcp:48220:3"/>
+            <head>Doctors of Phyſick IN THE UNIVERSITY OF CAMBRIDGE.</head>
+            <list>
+               <head>1659.</head>
+               <item>THom. Allen, <hi>Coll. Caii.</hi>
+               </item>
+               <item>Robt. Hobſon, <hi>Coll. Magd.</hi>
+               </item>
+               <item>Henry Corbel, <hi>Coll. Div. Johan.</hi>
+               </item>
+               <item>Joſ. Gardiner, <hi>Coll. Emman.</hi>
+               </item>
+               <item>Will. Fullwood, <hi>Aul. Cathar.</hi>
+               </item>
+               <item>John Lawſon, <hi>ex Aead. Patavina.</hi>
+               </item>
+            </list>
+            <list>
+               <head>1660.</head>
+               <item>WIll. Slatholme, <hi>Aul. Pembr.</hi>
+               </item>
+               <item>Edw. Sturton, <hi>Aul. Trin.</hi>
+               </item>
+               <item>Will. Hoar, <hi>Coll. Pet.</hi>
+               </item>
+               <item>John Hawes, <hi>Corp. Chriſti.</hi>
+               </item>
+               <item>Robt. Braddy, <hi>Coll. Caii.</hi>
+               </item>
+               <pb n="6" facs="tcp:48220:4"/>
+               <item>Michael Frere, <hi>Coll. Regin. Per Literas Regias.</hi>
+               </item>
+               <item>Robt. Craivly <hi>Per Literas Regias.</hi>
+               </item>
+               <item>Will. Whitwell <hi>Per Literas Regias.</hi>
+               </item>
+               <item>Arthur Wallpoole <hi>Per Literas Regias.</hi>
+               </item>
+               <item>Richard Maſon <hi>Per Literas Regias.</hi>
+               </item>
+               <item>Will. Francklin <hi>Per Literas Regias.</hi>
+               </item>
+               <item>Roger Burgoyne <hi>Per Literas Regias.</hi>
+               </item>
+               <item>Will. Barlow <hi>Per Literas Regias.</hi>
+               </item>
+               <item>Otho Nicholſon <hi>Per Literas Regias.</hi>
+               </item>
+               <item>Gerard Skrymſher <hi>Per Literas Regias.</hi>
+               </item>
+               <item>John Davenant <hi>Per Literas Regias.</hi>
+               </item>
+            </list>
+            <list>
+               <head>1661.</head>
+               <item>John Neale</item>
+               <item>George Chamberlaine</item>
+               <item>James Meggs</item>
+               <item>John Troutback</item>
+               <item>Theophyl. Howarth</item>
+               <item>Tobias Dickſon</item>
+               <item>Ralph Triplet</item>
+               <item>John Goſtlin</item>
+               <item>Nath. Willis</item>
+               <item>John Finch <hi>Incorp.</hi>
+               </item>
+               <item>Thom. Baynes <hi>Incorp.</hi>
+               </item>
+               <item>Lancelot Harriſon <hi>Per Literas Regias.</hi>
+               </item>
+               <item>Luke Eales <hi>Per Literas Regias.</hi>
+               </item>
+               <item>James Fairclough <hi>Per Literas Regias.</hi>
+               </item>
+            </list>
+            <list>
+               <pb n="7" facs="tcp:48220:4"/>
+               <head>1662.</head>
+               <item>THom. Crask, <hi>Coll. Div. Johan.</hi>
+               </item>
+               <item>Joſ. Elliſton, <hi>Coll. Div. Johan.</hi>
+               </item>
+               <item>Henry Wivell, <hi>Coll. Chriſt.</hi>
+               </item>
+               <item>Robt. Sprackling, <hi>ex Acad. Andigavenſ.</hi>
+               </item>
+               <item>Will. Croone, <hi>Per Literas Regias.</hi>
+               </item>
+            </list>
+            <list>
+               <head>1663.</head>
+               <item>WIll. Crabb <hi>Per Literas Regias.</hi>
+               </item>
+               <item>John Bale <hi>Per Literas Regias.</hi>
+               </item>
+               <item>Thom. Horſington <hi>Per Literas Regias.</hi>
+               </item>
+               <item>Nich. Edwards <hi>Per Literas Regias.</hi>
+               </item>
+               <item>Rich. Stokes <hi>Per Literas Regias.</hi>
+               </item>
+               <item>Thom. Fettyplace <hi>Per Literas Regias.</hi>
+               </item>
+               <item>Edw. Gelſthorpe, <hi>Col. Caii. Per Literas Regias.</hi>
+               </item>
+            </list>
+            <list>
+               <head>1664.</head>
+               <item>WAlter Needham, <hi>Coll. Reg.</hi>
+               </item>
+               <item>Dan. Foote, <hi>Trin. Coll.</hi>
+               </item>
+               <item>Nicholas Carter <hi>Per Literas Regias.</hi>
+               </item>
+               <item>John Chriſtopher Maeſler <hi>Per Literas Regias.</hi>
+               </item>
+               <item>Malachy Thurſton, <hi>Col. Caii. Per Literas Regias.</hi>
+               </item>
+            </list>
+            <list>
+               <pb n="8" facs="tcp:48220:5"/>
+               <head>1665.</head>
+               <item>RAlph Flyer, <hi>Coll. Reg.</hi>
+               </item>
+               <item>John Hollins, <hi>Coll. Magd.</hi>
+               </item>
+               <item>Peirce Brackenbury, <hi>Coll. Div. Johan.</hi>
+               </item>
+               <item>John Hitch <hi>Per Literas Regias.</hi>
+               </item>
+               <item>Edw. Yarborough <hi>Per Literas Regias.</hi>
+               </item>
+               <item>Will. Playters <hi>Per Literas Regias.</hi>
+               </item>
+            </list>
+            <list>
+               <head>1666.</head>
+               <item>LAwr. Wright, <hi>Coll. Trin.</hi>
+               </item>
+               <item>Joſia Clerk, <hi>Coll. Petr.</hi>
+               </item>
+               <item>John Charles, <hi>Coll. Trin.</hi>
+               </item>
+            </list>
+            <list>
+               <head>1667.</head>
+               <item>JOhn Mapletoft, <hi>Trin. Coll.</hi>
+               </item>
+               <item>Will. Ramſey, <hi>ex Acad. Montpel. Per Lit. R.</hi>
+               </item>
+            </list>
+            <list>
+               <head>1668.</head>
+               <item>PHineas Fowke, <hi>Coll. Reg.</hi>
+               </item>
+               <item>Thom. Burwell, <hi>Aul. Trin.</hi>
+               </item>
+               <item>Will. Randolph, <hi>Coll. Div. Johan.</hi>
+               </item>
+               <item>Rich. Reyner, <hi>Coll. Corp. Chriſt.</hi>
+               </item>
+               <item>Peter Fulwood</item>
+               <item>John Browne</item>
+               <item>Thomas Short <hi>Per Literas Regias.</hi>
+               </item>
+               <item>Thom. Williams <hi>Per Literas Regias.</hi>
+               </item>
+               <item>Daniel Coxe <hi>Per Literas Regias.</hi>
+               </item>
+            </list>
+            <list>
+               <pb n="9" facs="tcp:48220:5"/>
+               <head>1669.</head>
+               <item>MAtt. Nelſon, <hi>Coll. Petr.</hi>
+               </item>
+               <item>Thom. Dawſon, <hi>Jeſ. Coll.</hi>
+               </item>
+               <item>Griffith Hatley, <hi>Aul. Pemb.</hi>
+               </item>
+               <item>Robt. Bloys, <hi>Coll. Trin.</hi>
+               </item>
+               <item>Ralph Cotton, <hi>Sydn. Suſs. Coll.</hi>
+               </item>
+               <item>Will. Sermon <hi>Per Literas Regias.</hi>
+               </item>
+               <item>Nich. Butler <hi>Per Literas Regias.</hi>
+               </item>
+            </list>
+            <list>
+               <head>1670.</head>
+               <item>HEnr. Hoogan, <hi>Trin. Coll.</hi>
+               </item>
+               <item>John Rivet, <hi>Coll. Emman.</hi>
+               </item>
+               <item>Thom. Carver, <hi>Corp. Chriſt.</hi>
+               </item>
+               <item>Valentine Oldis, <hi>Per Literas Regias.</hi>
+               </item>
+               <item>Paul Howell <hi>Per Literas Regias.</hi>
+               </item>
+               <item>Thom. Spencer <hi>Per Literas Regias.</hi>
+               </item>
+               <item>Leonard Hoar, <hi>Per Procur. Nelſon.</hi>
+               </item>
+            </list>
+            <list>
+               <head>1671.</head>
+               <item>JOhn Budgen, <hi>Coll. Trin.</hi>
+               </item>
+               <item>Edm. King, <hi>ex Conceſs. Archiepiſc. Cant.</hi>
+               </item>
+               <item>Andr. Clench <hi>Per Procurat. Goſtlin. Sub Duce Buckingh. Cancel.</hi>
+               </item>
+               <item>John Butler <hi>Per Procurat. Goſtlin. Sub Duce Buckingh. Cancel.</hi>
+               </item>
+               <item>Sam. Parker <hi>Per Procurat. Goſtlin. Sub Duce Buckingh. Cancel.</hi>
+               </item>
+               <item>Robt. Wrench <hi>Per Procurat. Goſtlin. Sub Duce Buckingh. Cancel.</hi>
+               </item>
+               <pb n="10" facs="tcp:48220:6"/>
+               <item>Peter Romp <hi>Sub Principe Auriaco.</hi>
+               </item>
+               <item>Thom. Elliot <hi>Sub Principe Auriaco.</hi>
+               </item>
+               <item>Thom. Samburne <hi>Sub Principe Auriaco.</hi>
+               </item>
+               <item>Chriſt. Hallely <hi>Sub Principe Auriaco.</hi>
+               </item>
+               <item>Thom. Roſs <hi>Sub Principe Auriaco.</hi>
+               </item>
+               <item>Ed. Rude <hi>Sub Principe Auriaco.</hi>
+               </item>
+               <item>Charles Goodall <hi>Sub Principe Auriaco.</hi>
+               </item>
+            </list>
+            <p>1672.</p>
+            <list>
+               <head>1673.</head>
+               <item>HEnry Watſon, <hi>Chriſt. Coll.</hi>
+               </item>
+               <item>Henry Atherton, <hi>Chriſt. Coll.</hi>
+               </item>
+               <item>Sam. Collins, <hi>Per Procurat. Paman.</hi>
+               </item>
+            </list>
+            <list>
+               <head>1674.</head>
+               <item>ROger Howman, <hi>Coll. Caii.</hi>
+               </item>
+               <item>Thom. Townes, <hi>Coll. Chriſt.</hi>
+               </item>
+               <item>Charles Ballet, <hi>Coll. Chriſt.</hi>
+               </item>
+               <item>James Rufine, <hi>ex Academ. Leid. Reſp.</hi> 1.</item>
+               <item>Will. Vaughan, <hi>ex Acad. Leidenſ.</hi>
+               </item>
+               <item>Petr. Richier, <hi>Aulae Pembr.</hi>
+               </item>
+               <item>George Atton, <hi>Coll. Chriſt.</hi>
+               </item>
+            </list>
+            <list>
+               <head>1675.</head>
+               <item>PEter Parham, <hi>Coll. Caii.</hi>
+               </item>
+               <item>Thom. Novell <hi>Per Literas Regias.</hi>
+               </item>
+               <item>Sam. Rowles <hi>Per Literas Regias.</hi>
+               </item>
+            </list>
+            <list>
+               <pb n="11" facs="tcp:48220:6"/>
+               <head>1676.</head>
+               <item>BEnjam. Clerk, <hi>Coll. Petr.</hi>
+               </item>
+               <item>Thom. Sydenham, <hi>Aul. Pembr.</hi>
+               </item>
+               <item>John Chamberlain <hi>Per Literas Regias.</hi>
+               </item>
+               <item>Will. Seaman <hi>Per Literas Regias.</hi>
+               </item>
+               <item>Simon Blenkarne <hi>Per Literas Regias.</hi>
+               </item>
+            </list>
+            <list>
+               <head>1677.</head>
+               <item>WIll. Briggs, <hi>Corp. Chriſt.</hi>
+               </item>
+               <item>George Jackſon, <hi>Coll. Chriſt.</hi>
+               </item>
+               <item>* Tho. Franckland, <hi>Brazen-N. Col. Oxon. B. D. July</hi> 2. 1663. <hi>and ſometime Cenſor of the College of Phyſicians London.</hi>
+               </item>
+               <item>Nich. Dorrell <hi>Per Literas Regias.</hi>
+               </item>
+               <item>Charles Fraiſer <hi>Per Literas Regias.</hi>
+               </item>
+            </list>
+            <list>
+               <head>1678.</head>
+               <item>FRanc. Bernard, <hi>ex Conceſs. Archiepiſc. Cant.</hi>
+               </item>
+               <item>Rich. Liſter <hi>Per Literas Regias.</hi>
+               </item>
+               <item>John Jones, <hi>Coll. Trin. Per Literas Regias.</hi>
+               </item>
+            </list>
+            <list>
+               <head>1679.</head>
+               <item>WIll. Dawkins, <hi>Coll. Div. Johan.</hi>
+               </item>
+               <item>John Garret, <hi>Per Literas Regias.</hi>
+               </item>
+            </list>
+            <list>
+               <head>1680.</head>
+               <item>EDw. Tyſon, <hi>Coll. Corp. Chriſt.</hi>
+               </item>
+               <item>Walter Mills, <hi>Coll. Chriſti.</hi>
+               </item>
+               <pb n="12" facs="tcp:48220:7"/>
+               <item>Walter Harris, <hi>ex Acad. Biturigenſi.</hi>
+               </item>
+               <item>Sam. Downes, <hi>Aul. Cathar.</hi>
+               </item>
+               <item>Philippus de Vendoſme, Prior Galliae.</item>
+               <item>Ric. Robinſon <hi>Per Literas Regias.</hi>
+               </item>
+               <item>John Elliot <hi>Per Literas Regias.</hi>
+               </item>
+               <item>Tho. Gill. <hi>Coll. Regin. and laid down Caution for the Performance of his Exerciſe.</hi>
+               </item>
+            </list>
+            <list>
+               <head>1681.</head>
+               <item>FReder. Schlaer, <hi>ex Acad. Ultraject.</hi>
+               </item>
+               <item>Tho. Fuller, <hi>Coll. Regin.</hi>
+               </item>
+               <item>Rich. Darnelly, <hi>Div. Johan. Coll.</hi>
+               </item>
+               <item>Nich. Bainbridge, <hi>Coll. Chr.</hi>
+               </item>
+               <item>Will. Wigmore, <hi>Coll. Regin.</hi>
+               </item>
+               <item>Rob. Schuldham, <hi>Coll. Caii. Per Literas Regias.</hi>
+               </item>
+               <item>Jodocus Crull, <hi>ex Acad. Leid. Per Literas Regias.</hi>
+               </item>
+               <item>Will. Dawes, <hi>ex Acad. Leid. Per Literas Regias.</hi>
+               </item>
+            </list>
+            <list>
+               <head>In Praeſentia Regis &amp; Reginae.</head>
+               <item>James Pearſe.</item>
+               <item>Rob. Lightfoot.</item>
+               <item>James Moulins, <hi>Per Procurat.</hi> Green.</item>
+            </list>
+            <list>
+               <head>1682.</head>
+               <item>SAm. Threapland, <hi>Coll. Pet.</hi>
+               </item>
+               <item>John Harriſon, <hi>Under the Fez and Morocco Embaſſ.</hi>
+               </item>
+               <item>Rob. Hatton, <hi>Under the Fez and Morocco Embaſſ.</hi>
+               </item>
+               <item>John Harborough, <hi>Coll. Eman. Sub Duce de Albem. Cancellario.</hi>
+               </item>
+               <item>Cudworth Johnſon, <hi>Sub Duce de Albem. Cancellario.</hi>
+               </item>
+               <item>Peter Alder, <hi>Col. Chriſt. Sub Duce de Albem. Cancellario.</hi>
+               </item>
+            </list>
+            <list>
+               <pb n="13" facs="tcp:48220:7"/>
+               <head>1683.</head>
+               <item>LAncelot Harriſon, <hi>ex Acad. St.</hi> Andreae.</item>
+               <item>John Fryer, <hi>Aul. Pemb:</hi>
+               </item>
+               <item>John Wallace, <hi>Coll. Div. Johannis.</hi>
+               </item>
+               <item>John Dade, <hi>Coll. Caii.</hi>
+               </item>
+               <item>Thomas Palmer, <hi>Coll. Regal.</hi>
+               </item>
+               <item>John Coke, <hi>Coll. Div. Johannis.</hi>
+               </item>
+               <item>Rich. Field, <hi>Coll. Sydn. Suſſ.</hi>
+               </item>
+               <item>Auſtin Caeſar, <hi>Per Literas Regias.</hi>
+               </item>
+            </list>
+            <list>
+               <head>1684.</head>
+               <item>JOhn Wright <hi>Coll. Div. Johan.</hi>
+               </item>
+               <item>Matthew Poole, <hi>Per Literas Regias.</hi>
+               </item>
+            </list>
+            <list>
+               <head>1685.</head>
+               <item>TAncred Robinſon, <hi>Coll. Div. Johan. Per Procurat.</hi> Green.</item>
+               <item>Chriſtoph. Green, <hi>Coll Caii.</hi>
+               </item>
+               <item>John Nutton, <hi>Coll. Sydn. Suſs.</hi>
+               </item>
+            </list>
+            <list>
+               <head>1686.</head>
+               <item>SImon Welman, <hi>Per Procurat Dade.</hi>
+               </item>
+               <item>Andr. Griffiths, <hi>Coll. Magd.</hi>
+               </item>
+               <item>Rich. Carr, <hi>Coll. Magd.</hi>
+               </item>
+               <item>Peter Paxton, <hi>Per Literas Regias.</hi>
+               </item>
+            </list>
+            <list>
+               <pb n="14" facs="tcp:48220:8"/>
+               <head>1687.</head>
+               <item>THo. Man, <hi>Coll. Jeſus.</hi>
+               </item>
+               <item>John Badger, <hi>Coll. Emman.</hi>
+               </item>
+               <item>Amias Chicheſter, <hi>Coll. Caii.</hi>
+               </item>
+               <item>Rob. Midgley, <hi>Coll. Chriſt.</hi>
+               </item>
+               <item>Will. Baſſet, <hi>Aul. Pemb.</hi>
+               </item>
+               <item>Charles Johnſtone, <hi>Coll. Div. Johannis.</hi>
+               </item>
+               <item>John Northleigh, <hi>Coll. Regal. Per Literas Regias.</hi>
+               </item>
+               <item>Will. Walker. <hi>Per Literas Regias.</hi>
+               </item>
+            </list>
+            <list>
+               <head>1688.</head>
+               <item>JOhn Hawys, <hi>Coll. Corp. Chriſt.</hi>
+               </item>
+               <item>Will Ruſſel <hi>Per Literas Regias.</hi>
+               </item>
+               <item>Simon Lloyd <hi>Per Literas Regias.</hi>
+               </item>
+               <item>Humph. Ridley, <hi>ex Acad. Leidenſ.</hi>
+               </item>
+               <item>Peter Gelſthorpe <hi>Coll. Cati. ex Aca. Ultra. Reſp.</hi> 1.</item>
+            </list>
+            <list>
+               <head>1689.</head>
+               <item>THo. Goodman, <hi>ex Acad. Ultraj.</hi>
+               </item>
+               <item>Alex. Griffith. <hi>Per Literas Regias.</hi>
+               </item>
+               <item>Hugh Chamberlen. <hi>Per Literas Regias.</hi>
+               </item>
+               <item>James Milne. <hi>Per Literas Regias.</hi>
+               </item>
+               <item>James Burrough. <hi>Per Literas Regias.</hi>
+               </item>
+               <item>Monſieur Leveck. <hi>Per Literas Regias.</hi>
+               </item>
+               <item>Nath. Banne, <hi>Coll. Jeſus. Per Literas Regias.</hi>
+               </item>
+               <item>Charles Leigh, <hi>Coll. Jeſus. Per Literas Regias.</hi>
+               </item>
+            </list>
+            <list>
+               <pb n="15" facs="tcp:48220:8"/>
+               <head>1690.</head>
+               <item>SAm. Garth, <hi>Coll. Petr.</hi>
+               </item>
+            </list>
+            <list>
+               <head>1691.</head>
+               <item>ROb. Barker, <hi>Coll. Regin.</hi>
+               </item>
+            </list>
+            <list>
+               <head>1692.</head>
+               <item>JOhn Price, <hi>ex Aula Gloceſt. Oxon. &amp; ex Acad. Hardervicenſi Gebror.</hi>
+               </item>
+               <item>Edward Stillingfleet, <hi>Coll. Div. Johan.</hi>
+               </item>
+               <item>Barnham Soame, <hi>Coll. Div. Johan.</hi>
+               </item>
+               <item>John Nicholſon, <hi>Coll. Div. Johan.</hi>
+               </item>
+            </list>
+            <list>
+               <head>1693.</head>
+               <item>JOhn Woollaſton <hi>ex Acad. Ultraject.</hi>
+               </item>
+               <item>Joſeph Gaylard, <hi>ex Acad. Leidenſ.</hi>
+               </item>
+               <item>Edm. Mott, <hi>Coll. Caii.</hi>
+               </item>
+               <item>Humphry Brooke, <hi>Coll. Caii.</hi>
+               </item>
+               <item>Sam. Woodgate <hi>Coll. Emman. per Liter. Regias.</hi>
+               </item>
+            </list>
+            <list>
+               <head>1694.</head>
+               <item>RIch. Richardſon, <hi>ex Acad. Leidenſ.</hi>
+               </item>
+               <item>John Bigg, <hi>ex Acad. Aberdonenſ.</hi>
+               </item>
+               <item>James Drake, <hi>Coll. Caii.</hi>
+               </item>
+               <item>Sam. Mumford, <hi>Coll. Chriſti.</hi>
+               </item>
+               <item>Steph. Hunt, <hi>Coll. Caii.</hi>
+               </item>
+               <item>Benjam. Wrench, <hi>Coll. Caii.</hi>
+               </item>
+            </list>
+         </div>
+         <div type="list_of_doctors">
+            <pb facs="tcp:48220:9"/>
+            <pb n="17" facs="tcp:48220:9"/>
+            <head>Doctors of Phyſick IN THE Univerſity of OXFORD.</head>
+            <list>
+               <head>1659.</head>
+               <item>THo. Jeanes, <hi>Coll. Magd.</hi>
+               </item>
+               <item>Nath. Hodges, <hi>Chr. Ch.</hi>
+               </item>
+               <item>John Hill, <hi>All-Souls.</hi>
+               </item>
+               <item>Peter Vaſſon, <hi>Coll. Baliol.</hi>
+               </item>
+               <item>Tho. Millington, <hi>All-Souls.</hi>
+               </item>
+               <item>Rich. Higges, <hi>Hart-Hall.</hi>
+               </item>
+               <item>John Smith, <hi>Braſ. N. Coll.</hi>
+               </item>
+               <item>Humph. Brooks, St. <hi>John Bapt.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Incorporated,</head>
+               <item>Will. Parker, Dr. of Phyſ. <hi>Padua.</hi>
+               </item>
+               <item>Tim. Hodſon, Dr. of Phyſ. <hi>Aurang.</hi>
+               </item>
+               <item>Sam. Collins, Dr. of Phyſ. <hi>Padua.</hi>
+               </item>
+            </list>
+            <list>
+               <head>1660.</head>
+               <item>ANdr. Beech, <hi>ex Acad. Patav.</hi>
+               </item>
+               <item>Dav. Bruce, <hi>ex Acad. Valent.</hi>
+               </item>
+               <item>Nic. Carre, <hi>Mert. Col.</hi>
+               </item>
+               <item>John Clerk, <hi>Coll. Trin.</hi>
+               </item>
+               <pb n="18" facs="tcp:48220:10"/>
+               <item>Will. Durſton, <hi>Col</hi> St. <hi>M. Magd.</hi>
+               </item>
+               <item>Thom. Wren.</item>
+               <item>Nich. Stanley, <hi>ex Acad. Leidenſ.</hi>
+               </item>
+               <item>Nich. Davies, <hi>Coll. Exeter,</hi> Incorp.</item>
+               <item>Degory Polwhele, <hi>Coll. Exeter.</hi>
+               </item>
+               <item>Matth. Skinner, <hi>Coll. Trin.</hi>
+               </item>
+               <item>Dawbeney Turbervil, <hi>Coll. Oriel.</hi>
+               </item>
+               <item>Edm. Borlaſe, <hi>ex Acad. Leid.</hi>
+               </item>
+               <item>Aug. Caeſar, <hi>Aul. Gloceſt.</hi>
+               </item>
+               <item>Will. Jacob, <hi>Coll. Chriſti.</hi>
+               </item>
+               <item>Joſ. Bidgood, <hi>Coll. Exeter, ex Acad. Patav.</hi>
+               </item>
+               <item>Chr. Bathurſt, <hi>ex Acad. Patav.</hi>
+               </item>
+               <item>Edw. Hawtain, <hi>Coll. St. Mary Magd.</hi>
+               </item>
+               <item>Rob. Henchman, <hi>ex Acad. Patav.</hi>
+               </item>
+               <item>John Lamphire, <hi>Coll. Nov.</hi>
+               </item>
+               <item>Thom. Willis, <hi>Coll. Chriſti.</hi>
+               </item>
+               <item>Rich. Francklin, <hi>Coll. Regin.</hi>
+               </item>
+               <item>Hen. Wyat, <hi>Coll. Pembr.</hi>
+               </item>
+            </list>
+            <list>
+               <head>1661.</head>
+               <item>JOhn Atfeild, <hi>ex Acad. Caen.</hi>
+               </item>
+               <item>John Bathurſt, <hi>ex Acad. Leidenſ.</hi>
+               </item>
+               <item>Will. Jackſon, <hi>Coll. Univ.</hi>
+               </item>
+               <item>Geo. Smyth, <hi>Coll. Regin. ex Acad. Patav.</hi>
+               </item>
+               <item>Jeffery Riſhton, <hi>Aul. St. Mar. Virg.</hi>
+               </item>
+               <item>Hamnet Ward, <hi>ex Acad. Andigav.</hi>
+               </item>
+               <item>Will. Bright, <hi>ex Acad. Patav.</hi>
+               </item>
+               <item>George Neale, <hi>Coll. Chriſti.</hi>
+               </item>
+               <item>Thom. Bedingfield, <hi>Coll. Chriſti.</hi>
+               </item>
+               <pb n="19" facs="tcp:48220:10"/>
+               <item>Will. Bentley, <hi>Coll. Baliol.</hi>
+               </item>
+               <item>John Metford, <hi>Aul. Edm.</hi>
+               </item>
+               <item>Rob. Peirce, <hi>Coll. Lincoln.</hi>
+               </item>
+               <item>Walter Pope, <hi>Coll. Wadham.</hi>
+               </item>
+               <item>Fred. Sagittary, <hi>Coll. Regin.</hi>
+               </item>
+               <item>Will. Spark, <hi>Coll. St. Mary Magd.</hi>
+               </item>
+               <item>Rich. Trevor, <hi>Coll. Mert. ex Ac. Pat.</hi>
+               </item>
+               <item>Rob. Stapley, <hi>ex Acad. Patav.</hi>
+               </item>
+               <item>Levinus Fludd, <hi>ex Acad. Patav.</hi>
+               </item>
+               <item>John Downes, <hi>ex Acad. Leidenſ.</hi>
+               </item>
+            </list>
+            <list>
+               <head>1662.</head>
+               <item>ARth. Amherſt, <hi>ex Acad. Bourg.</hi>
+               </item>
+               <item>Peter Richier, <hi>ex Acad. Bourd.</hi>
+               </item>
+            </list>
+            <list>
+               <head>1663.</head>
+               <item>RIch. Keurden <hi>alias</hi> Jackſon, <hi>Aul. St. M. Virg.</hi>
+               </item>
+               <item>Rich. Read, <hi>ex Acad. Leid.</hi>
+               </item>
+               <item>Will. Hawes, <hi>ex Acad. Patav.</hi>
+               </item>
+               <item>Henry De Vic. <hi>Kn<hi rend="sup">t</hi>.</hi>
+               </item>
+            </list>
+            <list>
+               <head>1664.</head>
+               <item>CHarl. Willughby, <hi>ex Acad. Pat.</hi>
+               </item>
+               <item>Dan. Hodſon, <hi>ex Acad. Leid.</hi>
+               </item>
+               <item>John Rogers, <hi>ex Acad. Ultraject.</hi>
+               </item>
+            </list>
+            <list>
+               <head>1665.</head>
+               <item>GEorge Caſtle, <hi>Coll. Omn. Anim.</hi>
+               </item>
+               <item>Edm. Davys, <hi>Coll. Exeter.</hi>
+               </item>
+               <item>Rich. Lower, <hi>Coll. Chriſt.</hi>
+               </item>
+               <item>Rob. Boyle, <hi>Eſq;</hi>
+               </item>
+            </list>
+            <list>
+               <pb n="20" facs="tcp:48220:11"/>
+               <head>1666.</head>
+               <item>DAn. Danvers, <hi>Coll. Trin.</hi>
+               </item>
+               <item>Edw. Exton, <hi>Coll. St. M. Magd.</hi>
+               </item>
+               <item>Will. Levinz, <hi>Coll. St. Johan. Bapt.</hi>
+               </item>
+               <item>John Speed, <hi>Coll. St. Johan. Bapt.</hi>
+               </item>
+               <item>Rich. Torleſs, <hi>Coll. St. Johan. Bapt.</hi>
+               </item>
+               <item>John Paris, <hi>Coll. Corp. Chriſt.</hi>
+               </item>
+               <item>Will. Cole, <hi>Aul. Gloceſt.</hi>
+               </item>
+            </list>
+            <list>
+               <head>1667.</head>
+               <item>EDw. Browne, <hi>Coll. Mert.</hi>
+               </item>
+            </list>
+            <list>
+               <head>1668.</head>
+               <item>SIR Theod. De-Vaux, <hi>Kt. ex Ac. Pat.</hi>
+               </item>
+               <item>Tho. Jameſon, <hi>Coll. Wadh.</hi>
+               </item>
+            </list>
+            <list>
+               <head>1669.</head>
+               <item>JOhn Bapt. Gornia, <hi>Bononenſ Sereniſſ. Princ. Coſm. Hetrur. Duc. Medicus,</hi> Incorp.</item>
+               <item>Nich. Hele, <hi>Coll. Exeter.</hi>
+               </item>
+               <item>Edw. Jones, <hi>Coll. Mert.</hi>
+               </item>
+               <item>Thom. Hayes, <hi>Coll. Aerei Naſ.</hi>
+               </item>
+               <item>Peter Gerrard. <hi>Coll. Aerei Naſ.</hi>
+               </item>
+               <item>Elias Aſhmole, <hi>Eſq;</hi>
+               </item>
+               <item>Thom. Waterhouſe, <hi>ex Acad. Leid.</hi>
+               </item>
+               <item>Rob Moriſone, <hi>ex Acad. Andegav.</hi>
+               </item>
+            </list>
+            <list>
+               <pb n="21" facs="tcp:48220:11"/>
+               <head>1670.</head>
+               <item>DAv. Thomas, <hi>Coll. Nov.</hi>
+               </item>
+               <item>Abrah. Clifford (<hi>Scretary to the Prince of</hi> Orange) <hi>Under the Prince of</hi> Orange.</item>
+               <item>Will. Brian. <hi>Under the Prince of</hi> Orange.</item>
+               <item>Theod. Colladonnius, <hi>Eſq; Under the Prince of</hi> Orange.</item>
+               <item>Edw. Crump, <hi>Eſq; Under the Prince of</hi> Orange.</item>
+               <item>Edm. Grey, <hi>Under the Prince of</hi> Orange.</item>
+               <item>Rich. Morton. <hi>Under the Prince of</hi> Orange.</item>
+               <item>Edw. Halſius, <hi>ex Acad. Leidenſ. Under the Prince of</hi> Orange.</item>
+               <item>Sam. Morris, <hi>ex Acad. Leid. Under the Prince of</hi> Orange.</item>
+            </list>
+            <list>
+               <head>1671.</head>
+               <item>SAm. Jackſon, <hi>Coll. Chriſti.</hi>
+               </item>
+               <item>Thom. Alvey, <hi>Coll. Merton.</hi>
+               </item>
+            </list>
+            <list>
+               <head>1672.</head>
+               <item>JOhn Maſter, <hi>Coll. Chriſti.</hi>
+               </item>
+               <item>Tho. Skynner, <hi>Coll. St. Johan. Bapt.</hi>
+               </item>
+            </list>
+            <list>
+               <head>1673.</head>
+               <item>JOhn Luffe, <hi>Aul.</hi> St. <hi>Mary Virg.</hi>
+               </item>
+               <item>Jacob Albanus Ghibbeſius, <hi>Imperat. Leopoldi Poeta Laureatus.</hi>
+               </item>
+            </list>
+            <list>
+               <head>1674.</head>
+               <item>FRanc. Eedes, <hi>Coll. Chriſti.</hi>
+               </item>
+               <item>John Jacobeus.</item>
+            </list>
+            <list>
+               <pb n="22" facs="tcp:48220:12"/>
+               <head>1675.</head>
+               <item>SAm. Izacke, <hi>Coll. Exet.</hi>
+               </item>
+               <item>Chriſt. Dominick, <hi>Coll. Wadh.</hi>
+               </item>
+            </list>
+            <list>
+               <head>1676.</head>
+               <item>RAlph Harriſon, <hi>Coll. Nov.</hi>
+               </item>
+               <item>John Ludwell, <hi>Coll. Wadh.</hi>
+               </item>
+               <item>Will. Warner, <hi>Coll. St. Johan. Bapt.</hi>
+               </item>
+            </list>
+            <list>
+               <head>1677.</head>
+               <item>WIll. Coker, <hi>Coll. Omn. Animar.</hi>
+               </item>
+               <item>Patrick Dun, <hi>ex Acad. Aberdon.</hi>
+               </item>
+               <item>Charles Twyſden, <hi>Coll. Chriſti.</hi>
+               </item>
+            </list>
+            <list>
+               <head>1678.</head>
+               <item>THo. Mayow, <hi>Coll. Chriſti.</hi>
+               </item>
+               <item>Rich. Smith, <hi>Coll. Mert. ex Acad. Ul<g ref="char:EOLhyphen"/>traject.</hi>
+               </item>
+            </list>
+            <list>
+               <head>1679.</head>
+               <item>EDw. Wrigglysworth, <hi>Coll. St. Johan. Bapt.</hi>
+               </item>
+               <item>Joſhua Laſher, <hi>Coll. St. Johan. Bapt.</hi>
+               </item>
+            </list>
+            <list>
+               <head>1680.</head>
+               <item>ANd. De Mellevil, <hi>Eques Aurat. &amp; Chili<g ref="char:EOLhyphen"/>archa.</hi>
+               </item>
+               <item>Ant. De Saictot.</item>
+               <item>John Floyer, <hi>Coll. Regin.</hi>
+               </item>
+               <item>Carolus <hi>Elector Palatinus ad Rhen.</hi> &amp;c.</item>
+               <pb n="23" facs="tcp:48220:12"/>
+               <item>Abrah. Dorr, <hi>D. Hanov. Germ. Under the Elector Palatine.</hi>
+               </item>
+               <item>Philip. Chriſt. <hi>de</hi> Koningſmark. <hi>Under the Elector Palatine.</hi>
+               </item>
+               <item>Eberard, Frederic. <hi>à</hi> Venningen. <hi>Car. Princ. Elect. Palat. ad Rhen. Venationi Praefectus,</hi> &amp;c. <hi>Under the Elector Palatine.</hi>
+               </item>
+               <item>Will. Dutton Colt, <hi>Maſter of the Horſe to Prince</hi> Rupert. <hi>Under the Elector Palatine.</hi>
+               </item>
+               <item>John Bernhard Ferber, <hi>Saxo,</hi> &amp;c. <hi>Under the Elector Palatine.</hi>
+               </item>
+               <item>Freder. Slear, <hi>Palatino-Germanus. Under the Elector Palatine.</hi>
+               </item>
+               <item>Rob. Witty, <hi>Incorp. Under the Elector Palatine.</hi>
+               </item>
+            </list>
+            <list>
+               <head>1681.</head>
+               <item>THomas Roſe, <hi>Coll. Exet.</hi>
+               </item>
+            </list>
+            <list>
+               <head>1682.</head>
+               <item>JOhn Bateman, <hi>Coll. Mert.</hi>
+               </item>
+               <item>Rob. Pitt, <hi>Coll. Wadh.</hi>
+               </item>
+               <item>John Radcliffe, <hi>Coll. Lincoln.</hi>
+               </item>
+               <item>Charles Lybbe, <hi>Aul. St. Mary Magd.</hi>
+               </item>
+               <item>Phineas Ellwood, <hi>Coll. Corp. Chriſt.</hi>
+               </item>
+            </list>
+            <list>
+               <head>1683.</head>
+               <item>LAurentius Cronig, <hi>Sereniſſ. Princip. Adolph. Johan. Com. Palat. ad Rhenum Praeceptor.</hi>
+               </item>
+               <item>Martin Liſter.</item>
+               <item>Will. Gibbons, <hi>Coll. St. Johan. Bapt.</hi>
+               </item>
+               <item>Dav. Williams, <hi>Coll. Oriel.</hi>
+               </item>
+            </list>
+            <list>
+               <head>1684.</head>
+               <item>RIch. Adams, <hi>Coll. Omn. Anim.</hi>
+               </item>
+               <item>Rob. Smith, <hi>Coll. Wadh.</hi>
+               </item>
+            </list>
+            <list>
+               <pb n="24" facs="tcp:48220:13"/>
+               <head>1685.</head>
+               <item>STeph. Fry, <hi>Coll. Trin.</hi>
+               </item>
+               <item>Rob. Conny, <hi>Coll. St. Mary Magd.</hi>
+               </item>
+               <item>Sam. Kimberly, <hi>Coll. Pembr.</hi>
+               </item>
+            </list>
+            <list>
+               <head>1686.</head>
+               <item>SAm. Derham, <hi>Aul. St. Mary Magd.</hi>
+               </item>
+            </list>
+            <list>
+               <head>1687.</head>
+               <item>DAn. Greenwood, <hi>Coll. Aenei Naſi.</hi>
+               </item>
+               <item>Will. Coward, <hi>Coll. Mert.</hi>
+               </item>
+               <item>Will. Gould, <hi>Coll. Wadh.</hi>
+               </item>
+               <item>Will. Breach, <hi>Coll. Chriſti.</hi>
+               </item>
+               <item>John Foley, <hi>Coll. Pembr.</hi>
+               </item>
+            </list>
+            <list>
+               <head>1688.</head>
+               <item>JOhn Ballard, <hi>Coll. Nov.</hi>
+               </item>
+            </list>
+            <list>
+               <head>1689.</head>
+               <item>THom. Hoy, <hi>Coll. St. Johan. Bapt.</hi>
+               </item>
+               <item>Edm. Marten, <hi>Coll. Mert.</hi>
+               </item>
+               <item>John Oſmond, <hi>Coll. Corp. Chriſti.</hi>
+               </item>
+               <item>Franc. Smith, <hi>Coll. St. Mary Magd.</hi>
+               </item>
+               <item>Will. Muſgrave, <hi>Coll. Nov.</hi>
+               </item>
+            </list>
+            <list>
+               <head>1690.</head>
+               <item>NIch. Stanley, <hi>Coll. Omn. Anim.</hi>
+               </item>
+               <item>Will. Boyſe, <hi>Coll. Corp. Chriſti,</hi>
+               </item>
+            </list>
+            <list>
+               <pb n="25" facs="tcp:48220:13"/>
+               <head>1691.</head>
+               <item>CLav. Morris, <hi>Aul. Nov. Hoſp. G. C.</hi>
+               </item>
+               <item>Gul. Deedes, <hi>Aul. Cervin. G. C.</hi>
+               </item>
+               <item>Tho. Pyne <hi>Coll. Exon.</hi>
+               </item>
+               <item>Wilhelm. Hollwell <hi>Coll. Exon.</hi>
+               </item>
+               <item>Salisbury Cade, <hi>Coll. Trin.</hi>
+               </item>
+               <item>David Gregorie, <hi>Coll. Bal.</hi>
+               </item>
+            </list>
+            <list>
+               <head>1692.</head>
+               <item>HEn. Pigot <hi>Coll. Wadh.</hi>
+               </item>
+               <item>Chriſt. Pitt <hi>Coll. Wadh.</hi>
+               </item>
+               <item>Jacob Brewer <hi>Coll. Wadh.</hi>
+               </item>
+               <item>Tho. Sutton, <hi>Coll. Corp. Chriſt.</hi>
+               </item>
+               <item>Carol. King, <hi>Coll. Merton.</hi>
+               </item>
+            </list>
+            <list>
+               <head>1693.</head>
+               <item>GEr. Thurſton, <hi>Coll. Oriel.</hi>
+               </item>
+               <item>Johannes Sagittarins, <hi>Coll. Wadh.</hi>
+               </item>
+               <item>George Pigott, <hi>Coll. Div. Johan. Bapt.</hi>
+               </item>
+               <item>Arth. Parſons, <hi>Coll. Corp. Chriſt.</hi>
+               </item>
+               <item>Charles Tadlow, <hi>Coll. Div. Johan. Bapt.</hi>
+               </item>
+            </list>
+            <list>
+               <head>1694.</head>
+               <item>FRanc. Willis, <hi>Coll. Nov.</hi>
+               </item>
+               <item>Guliel. Creed, <hi>Coll. Corp. Chriſt.</hi>
+               </item>
+               <item>Rich. Willſon, <hi>Coll. Trin.</hi>
+               </item>
+               <item>Robt. Baskervil, <hi>Coll. Div. Johan. Bapt.</hi>
+               </item>
+            </list>
+         </div>
+      </body>
+      <back>
+         <div type="index">
+            <pb facs="tcp:48220:14"/>
+            <head>The <hi>INDEX.</hi>
+            </head>
+            <head type="sub">O <hi>Oxford.</hi> C <hi>Cambridge.</hi>
+            </head>
+            <p>
+               <table>
+                  <row>
+                     <cell>A</cell>
+                     <cell>
+                        <hi>Anno</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Dr. ADams, Rich.</cell>
+                     <cell>
+                        <hi>Ox.</hi> 84</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Alder, Pet.</cell>
+                     <cell>
+                        <hi>Ca.</hi> 82.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Allen, Tho.</cell>
+                     <cell>
+                        <hi>C.</hi> 59.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Alvey, Tho.</cell>
+                     <cell>
+                        <hi>O.</hi> 71.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Amherſt, Arth.</cell>
+                     <cell>
+                        <hi>O.</hi> 62.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Aſhmole, Elias</cell>
+                     <cell>
+                        <hi>O.</hi> 69.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Atfeild, John</cell>
+                     <cell>
+                        <hi>O.</hi> 61.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Atherton, Henr.</cell>
+                     <cell>
+                        <hi>C.</hi> 73.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Atton, George</cell>
+                     <cell>
+                        <hi>C.</hi> 74.</cell>
+                  </row>
+                  <row>
+                     <cell>B</cell>
+                     <cell>
+                        <hi>Anno</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Dr. BAdger, John.</cell>
+                     <cell>
+                        <hi>C.</hi> 87.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Bainbridge,</cell>
+                     <cell>
+                        <hi>N. C.</hi> 81.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Bale, John</cell>
+                     <cell>
+                        <hi>C.</hi> 63.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Ballard, John</cell>
+                     <cell>
+                        <hi>O.</hi> 88.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Ballet, Charles</cell>
+                     <cell>
+                        <hi>C.</hi> 74.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Bann, Nath.</cell>
+                     <cell>
+                        <hi>C.</hi> 89.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Barker, Robert</cell>
+                     <cell>
+                        <hi>C.</hi> 91.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Barlow, Will.</cell>
+                     <cell>
+                        <hi>C.</hi> 60.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Baskervill, Rob.</cell>
+                     <cell>
+                        <hi>O.</hi> 94.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Baſſet, Will.</cell>
+                     <cell>
+                        <hi>C.</hi> 87.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Bateman, John</cell>
+                     <cell>
+                        <hi>O.</hi> 82.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Bathurſt, Chriſ.</cell>
+                     <cell>
+                        <hi>O.</hi> 60.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Bathurſt, John</cell>
+                     <cell>
+                        <hi>O.</hi> 61.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Baynes, Tho.</cell>
+                     <cell>
+                        <hi>C.</hi> 61.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Bedingfield, Tho.</cell>
+                     <cell>
+                        <hi>O.</hi> 61.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Beech, And.</cell>
+                     <cell>
+                        <hi>O.</hi> 60.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Bentley, Will.</cell>
+                     <cell>
+                        <hi>O.</hi> 61.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Bernard, Franc.</cell>
+                     <cell>
+                        <hi>C.</hi> 78.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Bidgood, Joſ.</cell>
+                     <cell>
+                        <hi>O.</hi> 60.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Bigg, John</cell>
+                     <cell>
+                        <hi>C.</hi> 94.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Blenkarne, Sim.</cell>
+                     <cell>
+                        <hi>C.</hi> 76.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Bloys, Robert</cell>
+                     <cell>
+                        <hi>C.</hi> 69.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Borlaſe, Edm.</cell>
+                     <cell>
+                        <hi>O.</hi> 60.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Boyle, Robert</cell>
+                     <cell>
+                        <hi>O.</hi> 65.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Boyſe, Will.</cell>
+                     <cell>
+                        <hi>O.</hi> 90.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Brackenbury, Pei.</cell>
+                     <cell>
+                        <hi>C.</hi> 65.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Braddy, Robert</cell>
+                     <cell>
+                        <hi>C.</hi> 60.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Breach, Will.</cell>
+                     <cell>
+                        <hi>O.</hi> 87.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Brewer, Jacob</cell>
+                     <cell>
+                        <hi>O.</hi> 92.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Brian, Will.</cell>
+                     <cell>
+                        <hi>O.</hi> 70.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Bright, William</cell>
+                     <cell>
+                        <hi>O.</hi> 61.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Briggs, Will.</cell>
+                     <cell>
+                        <hi>C.</hi> 77.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Brook, Humph.</cell>
+                     <cell>
+                        <hi>O.</hi> 59.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Brook, Humph.</cell>
+                     <cell>
+                        <hi>C.</hi> 93.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Brown, John</cell>
+                     <cell>
+                        <hi>C.</hi> 68.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Brown, Edward</cell>
+                     <cell>
+                        <hi>O.</hi> 67.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Bruce, David</cell>
+                     <cell>
+                        <hi>O.</hi> 60.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Budgen, John</cell>
+                     <cell>
+                        <hi>C.</hi> 71.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Burgoyne, Rog.</cell>
+                     <cell>
+                        <hi>C.</hi> 60.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Burrough, James</cell>
+                     <cell>
+                        <hi>C</hi> 89.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Burwell, Tho.</cell>
+                     <cell>
+                        <hi>C.</hi> 68.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Butler, Nich.</cell>
+                     <cell>
+                        <hi>C.</hi> 69.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Butler, John</cell>
+                     <cell>
+                        <hi>C.</hi> 71.</cell>
+                  </row>
+                  <row>
+                     <cell>C</cell>
+                     <cell>
+                        <hi>Anno</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Dr. CAde, Salisb.</cell>
+                     <cell>
+                        <hi>O.</hi> 91.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Caefar, Auguſt.</cell>
+                     <cell>
+                        <hi>O.</hi> 60.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Caeſar, Auguſt.</cell>
+                     <cell>
+                        <hi>C.</hi> 83.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Carre, Nich.</cell>
+                     <cell>
+                        <hi>O.</hi> 60.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Carr, Rich.</cell>
+                     <cell>
+                        <hi>C.</hi> 86.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Carter, Nich.</cell>
+                     <cell>
+                        <hi>C.</hi> 64.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Carver, Tho.</cell>
+                     <cell>
+                        <hi>C.</hi> 70.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Caſtle, George</cell>
+                     <cell>
+                        <hi>O.</hi> 65.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Chamberlain, Ge.</cell>
+                     <cell>
+                        <hi>C.</hi> 61.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Chamberlain, Jo.</cell>
+                     <cell>
+                        <hi>C.</hi> 76.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Chamberlain, Hu.</cell>
+                     <cell>
+                        <hi>C.</hi> 89.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Charles, John</cell>
+                     <cell>
+                        <hi>C.</hi> 66.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Chicheſter, Ami.</cell>
+                     <cell>
+                        <hi>C.</hi> 87.</cell>
+                  </row>
+                  <pb facs="tcp:48220:14"/>
+                  <row>
+                     <cell>Dr. Clench, And.</cell>
+                     <cell>
+                        <hi>C.</hi> 71.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Clerke, John</cell>
+                     <cell>
+                        <hi>O.</hi> 60.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Clerk, Joſiah</cell>
+                     <cell>
+                        <hi>C.</hi> 66.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Clerk, Benja.</cell>
+                     <cell>
+                        <hi>C.</hi> 76.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Clifford, Abra.</cell>
+                     <cell>
+                        <hi>O.</hi> 70.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Coke, John</cell>
+                     <cell>
+                        <hi>C.</hi> 83.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Coker, Will.</cell>
+                     <cell>
+                        <hi>O.</hi> 77.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Cole, Will.</cell>
+                     <cell>
+                        <hi>O.</hi> 66.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Colladonnius, Theodo. Arm.</cell>
+                     <cell>
+                        <hi>O.</hi> 70.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Collins, Sam.</cell>
+                     <cell>
+                        <hi>O.</hi> 59.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Collins, Sam.</cell>
+                     <cell>
+                        <hi>C.</hi> 73.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Colt, Wil. Dutton.</cell>
+                     <cell>
+                        <hi>O.</hi> 80.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Conny, Robert</cell>
+                     <cell>
+                        <hi>O.</hi> 85.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Gorbel, Henry</cell>
+                     <cell>
+                        <hi>C.</hi> 59.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Cotton, Ralph</cell>
+                     <cell>
+                        <hi>C.</hi> 69.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Coward, Will.</cell>
+                     <cell>
+                        <hi>O.</hi> 87.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Coxe, Daniel</cell>
+                     <cell>
+                        <hi>C.</hi> 68.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Crab, Will.</cell>
+                     <cell>
+                        <hi>C.</hi> 63.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Craivly, Robert</cell>
+                     <cell>
+                        <hi>C.</hi> 60.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Crask, Thom.</cell>
+                     <cell>
+                        <hi>C.</hi> 62.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Creed, Gulielm.</cell>
+                     <cell>
+                        <hi>O.</hi> 94.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Cronig, Lauren.</cell>
+                     <cell>
+                        <hi>O.</hi> 83.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Croon, Will.</cell>
+                     <cell>
+                        <hi>C.</hi> 62.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Crull, Jodocus</cell>
+                     <cell>
+                        <hi>C.</hi> 81.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Crump, Edw.</cell>
+                     <cell>
+                        <hi>O.</hi> 70.</cell>
+                  </row>
+                  <row>
+                     <cell>D</cell>
+                     <cell>
+                        <hi>Anno</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Dr. DAde, John</cell>
+                     <cell>
+                        <hi>C.</hi> 83.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Danvers, Dan.</cell>
+                     <cell>
+                        <hi>O.</hi> 66.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Darnelly, Rich.</cell>
+                     <cell>
+                        <hi>C.</hi> 81.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Davenant, John</cell>
+                     <cell>
+                        <hi>C.</hi> 60.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Davys, Edm.</cell>
+                     <cell>
+                        <hi>O.</hi> 65.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Davies, Nich.</cell>
+                     <cell>
+                        <hi>O.</hi> 60.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Dawes, Will.</cell>
+                     <cell>
+                        <hi>C.</hi> 81.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Dawkins, Will.</cell>
+                     <cell>
+                        <hi>C.</hi> 79.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Dawſon, Thom.</cell>
+                     <cell>
+                        <hi>C.</hi> 69.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Deedes, Guli.</cell>
+                     <cell>
+                        <hi>O.</hi> 91.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Derham, Sam.</cell>
+                     <cell>
+                        <hi>O.</hi> 86.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Dickſon, Tobias</cell>
+                     <cell>
+                        <hi>C.</hi> 61.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Dominick, Chriſt.</cell>
+                     <cell>
+                        <hi>O.</hi> 75.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Dorr, Abraham</cell>
+                     <cell>
+                        <hi>O.</hi> 80.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Dorrell, Nich.</cell>
+                     <cell>
+                        <hi>C.</hi> 77.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Downes, John</cell>
+                     <cell>
+                        <hi>O.</hi> 61.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Downes, Sam.</cell>
+                     <cell>
+                        <hi>C.</hi> 80.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Drake, James</cell>
+                     <cell>
+                        <hi>C.</hi> 94.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Dunn, Patrick</cell>
+                     <cell>
+                        <hi>O.</hi> 77.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Durſton, Will.</cell>
+                     <cell>
+                        <hi>O.</hi> 60.</cell>
+                  </row>
+                  <row>
+                     <cell>E</cell>
+                     <cell>
+                        <hi>Anno</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Dr. EAles, Luke</cell>
+                     <cell>
+                        <hi>C.</hi> 61.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Eedes, Fran.</cell>
+                     <cell>
+                        <hi>O.</hi> 74.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Edwards, Nich.</cell>
+                     <cell>
+                        <hi>C.</hi> 63.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Elliot, John</cell>
+                     <cell>
+                        <hi>C.</hi> 80.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Elliot, Thom.</cell>
+                     <cell>
+                        <hi>C.</hi> 71.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Elliſton, Joſ.</cell>
+                     <cell>
+                        <hi>C.</hi> 62.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Ellwood, Phineas</cell>
+                     <cell>
+                        <hi>O.</hi> 82.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Exton, Edw.</cell>
+                     <cell>
+                        <hi>O.</hi> 66.</cell>
+                  </row>
+                  <row>
+                     <cell>F</cell>
+                     <cell>
+                        <hi>Anno</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Dr. FAirclough, Ja.</cell>
+                     <cell>
+                        <hi>C.</hi> 61.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Feild, Rich.</cell>
+                     <cell>
+                        <hi>C.</hi> 83.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Ferber, John Ber.</cell>
+                     <cell>
+                        <hi>O.</hi> 80.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Fettyplace, Tho.</cell>
+                     <cell>
+                        <hi>C.</hi> 63.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Finch, John</cell>
+                     <cell>
+                        <hi>C.</hi> 61.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Floyer, John</cell>
+                     <cell>
+                        <hi>O.</hi> 80.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Flyer. Ralph</cell>
+                     <cell>
+                        <hi>C.</hi> 65.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Fludd, Levinus</cell>
+                     <cell>
+                        <hi>O.</hi> 61.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Foley, John</cell>
+                     <cell>
+                        <hi>O.</hi> 87.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Foot, Daniel</cell>
+                     <cell>
+                        <hi>C.</hi> 64.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Fowke, Phineas</cell>
+                     <cell>
+                        <hi>C.</hi> 68.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Fraiſer, Charl.</cell>
+                     <cell>
+                        <hi>C.</hi> 77.</cell>
+                  </row>
+                  <row>
+                     <cell>* Franckland, Tho.</cell>
+                     <cell>
+                        <hi>C.</hi> 77.</cell>
+                  </row>
+                  <pb facs="tcp:48220:15"/>
+                  <row>
+                     <cell>Dr. Francklin, Rich.</cell>
+                     <cell>
+                        <hi>O.</hi> 60.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Francklin, Will.</cell>
+                     <cell>
+                        <hi>C.</hi> 60.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Frere, Mich.</cell>
+                     <cell>
+                        <hi>C.</hi> 60.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Fry, Stephen</cell>
+                     <cell>
+                        <hi>O.</hi> 85.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Fryer, John</cell>
+                     <cell>
+                        <hi>C.</hi> 83.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Fuller, Tho.</cell>
+                     <cell>
+                        <hi>C.</hi> 81.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Fullwood, Will.</cell>
+                     <cell>
+                        <hi>C.</hi> 59.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Fullwood, Peter</cell>
+                     <cell>
+                        <hi>C.</hi> 68.</cell>
+                  </row>
+                  <row>
+                     <cell>G</cell>
+                     <cell>
+                        <hi>Anno</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Dr. GAilard, Joſ.</cell>
+                     <cell>
+                        <hi>C.</hi> 93.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Gardiner, Joſ.</cell>
+                     <cell>
+                        <hi>C.</hi> 59.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Garret, John</cell>
+                     <cell>
+                        <hi>C.</hi> 79.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Garth, Sam.</cell>
+                     <cell>
+                        <hi>C.</hi> 90.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Gelſthorpe, Edw.</cell>
+                     <cell>
+                        <hi>C.</hi> 63.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Gelſthorpe, Pet.</cell>
+                     <cell>
+                        <hi>C.</hi> 88.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Gerrard, Pet.</cell>
+                     <cell>
+                        <hi>O.</hi> 69.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Ghibbeſius, Jac.</cell>
+                     <cell>
+                        <hi>O.</hi> 73</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Gibbons, Will.</cell>
+                     <cell>
+                        <hi>O.</hi> 83.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Gill, Thomas</cell>
+                     <cell>
+                        <hi>C.</hi> 80.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Goodall, Charl.</cell>
+                     <cell>
+                        <hi>C.</hi> 71.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Goodman, Tho.</cell>
+                     <cell>
+                        <hi>C.</hi> 89.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Gornia, Joh. Bapt.</cell>
+                     <cell>
+                        <hi>O.</hi> 69.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Goſtlin, John</cell>
+                     <cell>
+                        <hi>C.</hi> 61.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Gould, Will.</cell>
+                     <cell>
+                        <hi>O.</hi> 87.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Green, Chriſt.</cell>
+                     <cell>
+                        <hi>C.</hi> 85.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Greenwood, Dan.</cell>
+                     <cell>
+                        <hi>O.</hi> 87.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Gregorie, David</cell>
+                     <cell>
+                        <hi>O.</hi> 91.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Grey Edmund</cell>
+                     <cell>
+                        <hi>O.</hi> 70.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Griffith, Alex.</cell>
+                     <cell>
+                        <hi>C.</hi> 89.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Griffiths, Andr.</cell>
+                     <cell>
+                        <hi>C.</hi> 86.</cell>
+                  </row>
+                  <row>
+                     <cell>H</cell>
+                     <cell>
+                        <hi>Anno.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Dr. HAllely, Chri.</cell>
+                     <cell>
+                        <hi>C.</hi> 71.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Halſius, Ed.</cell>
+                     <cell>
+                        <hi>O.</hi> 70.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Harborough, Jo.</cell>
+                     <cell>
+                        <hi>C.</hi> 82.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Harris, Walter</cell>
+                     <cell>
+                        <hi>C.</hi> 80.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Harriſon, Ralph</cell>
+                     <cell>
+                        <hi>O.</hi> 76.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Harriſon, Lanc.</cell>
+                     <cell>
+                        <hi>C.</hi> 61.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Harriſon, John</cell>
+                     <cell>
+                        <hi>C.</hi> 82.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Harriſon, Lanc.</cell>
+                     <cell>
+                        <hi>C.</hi> 83.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Hatley, Griffith</cell>
+                     <cell>
+                        <hi>C.</hi> 69.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Hatton, Robert</cell>
+                     <cell>
+                        <hi>C.</hi> 82.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Hawes, John</cell>
+                     <cell>
+                        <hi>C.</hi> 60.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Hawes, Will.</cell>
+                     <cell>
+                        <hi>O.</hi> 63.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Hawys, John</cell>
+                     <cell>
+                        <hi>C.</hi> 88.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Hawtaine, Edw.</cell>
+                     <cell>
+                        <hi>O.</hi> 60.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Hayes, Thom.</cell>
+                     <cell>
+                        <hi>O.</hi> 69.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Hele, Nich.</cell>
+                     <cell>
+                        <hi>O.</hi> 69.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Henchman, Rob.</cell>
+                     <cell>
+                        <hi>O.</hi> 60.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Higgs, Rich.</cell>
+                     <cell>
+                        <hi>O.</hi> 59.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Hill, John</cell>
+                     <cell>
+                        <hi>O.</hi> 59.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Hitch, John</cell>
+                     <cell>
+                        <hi>C.</hi> 65.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Hoar, Will.</cell>
+                     <cell>
+                        <hi>C.</hi> 60.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Hoar, Leonard</cell>
+                     <cell>
+                        <hi>C.</hi> 70.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Hobſon, Robert</cell>
+                     <cell>
+                        <hi>C.</hi> 59.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Hodges, Nat.</cell>
+                     <cell>
+                        <hi>O.</hi> 59.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Hodſon, Dan.</cell>
+                     <cell>
+                        <hi>O.</hi> 64.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Hodſon, Tim.</cell>
+                     <cell>
+                        <hi>O.</hi> 59.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Hollins, John</cell>
+                     <cell>
+                        <hi>C.</hi> 65.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Holwell, Will.</cell>
+                     <cell>
+                        <hi>O.</hi> 91.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Hoogan, Hen.</cell>
+                     <cell>
+                        <hi>C.</hi> 70.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Horſington, Tho.</cell>
+                     <cell>
+                        <hi>C.</hi> 63.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Howarth, Theop.</cell>
+                     <cell>
+                        <hi>C.</hi> 61.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Howel, Paul</cell>
+                     <cell>
+                        <hi>C.</hi> 70.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Howman, Roger</cell>
+                     <cell>
+                        <hi>C.</hi> 74.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Hoy, Thom.</cell>
+                     <cell>
+                        <hi>O.</hi> 89.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Hunt, Stephen</cell>
+                     <cell>
+                        <hi>C.</hi> 94.</cell>
+                  </row>
+                  <row>
+                     <cell>I</cell>
+                     <cell>
+                        <hi>Anno.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Dr. JAckſon, Geor.</cell>
+                     <cell>
+                        <hi>C.</hi> 77.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Jackſon, Will.</cell>
+                     <cell>
+                        <hi>O.</hi> 61.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Jackſon Sam.</cell>
+                     <cell>
+                        <hi>O.</hi> 71.</cell>
+                  </row>
+                  <pb facs="tcp:48220:15"/>
+                  <row>
+                     <cell>Dr. Jacob, Will.</cell>
+                     <cell>
+                        <hi>O.</hi> 60.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Jacobeus, John</cell>
+                     <cell>
+                        <hi>O.</hi> 74.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Jameſon, Tho.</cell>
+                     <cell>
+                        <hi>O.</hi> 68.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Jeanes, Thom.</cell>
+                     <cell>
+                        <hi>O.</hi> 59</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Johnſon, Cudwor.</cell>
+                     <cell>
+                        <hi>C.</hi> 82.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Johnſtone, Charl.</cell>
+                     <cell>
+                        <hi>C.</hi> 87</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Jones, Edw.</cell>
+                     <cell>
+                        <hi>O.</hi> 69.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Jones, John</cell>
+                     <cell>
+                        <hi>C.</hi> 78.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Izacke, Sam.</cell>
+                     <cell>
+                        <hi>O.</hi> 75.</cell>
+                  </row>
+                  <row>
+                     <cell>K</cell>
+                     <cell>
+                        <hi>Anno</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Dr. KEurden, <hi>alias</hi> Jack<g ref="char:EOLhyphen"/>ſon, Rich.</cell>
+                     <cell>
+                        <hi>O.</hi> 63.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Kimberly, Sam.</cell>
+                     <cell>
+                        <hi>O.</hi> 85.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. King, Carolus</cell>
+                     <cell>
+                        <hi>O.</hi> 92</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. King, Edmond</cell>
+                     <cell>
+                        <hi>C.</hi> 71.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Koningſmark, Philip. Chriſt.</cell>
+                     <cell>
+                        <hi>O.</hi> 80.</cell>
+                  </row>
+                  <row>
+                     <cell>L</cell>
+                     <cell>
+                        <hi>Anno</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Dr. LAmphire, Joh.</cell>
+                     <cell>
+                        <hi>O.</hi> 60.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Laſher, Joſh.</cell>
+                     <cell>
+                        <hi>O.</hi> 79.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Lawſon, John</cell>
+                     <cell>
+                        <hi>C.</hi> 59.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Leigh, Charles</cell>
+                     <cell>
+                        <hi>C.</hi> 89.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Leveck, Monſi.</cell>
+                     <cell>
+                        <hi>C.</hi> 89.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Levinz, Will.</cell>
+                     <cell>
+                        <hi>O.</hi> 66.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Lightfoot, Rob.</cell>
+                     <cell>
+                        <hi>C.</hi> 81.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Liſter, Martin</cell>
+                     <cell>
+                        <hi>O.</hi> 83.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Liſter, Rich.</cell>
+                     <cell>
+                        <hi>C.</hi> 78.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Lower, Rich.</cell>
+                     <cell>
+                        <hi>O.</hi> 65.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Lloyd, Simon</cell>
+                     <cell>
+                        <hi>C.</hi> 88.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Ludwell, John</cell>
+                     <cell>
+                        <hi>O.</hi> 76.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Luffe, John</cell>
+                     <cell>
+                        <hi>O.</hi> 73.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Lybbe Charles</cell>
+                     <cell>
+                        <hi>O.</hi> 82.</cell>
+                  </row>
+                  <row>
+                     <cell>M</cell>
+                     <cell>
+                        <hi>Anno</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Maeſler Joh. Chriſt</cell>
+                     <cell>
+                        <hi>C.</hi> 64.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Man, Thom.</cell>
+                     <cell>
+                        <hi>C.</hi> 87.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Mapletoft, John</cell>
+                     <cell>
+                        <hi>C.</hi> 67.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Marten, Edm.</cell>
+                     <cell>
+                        <hi>O.</hi> 89.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Maſon, Rich.</cell>
+                     <cell>
+                        <hi>C.</hi> 60.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Maſter, John</cell>
+                     <cell>
+                        <hi>O.</hi> 72.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Mayow Thom.</cell>
+                     <cell>
+                        <hi>O.</hi> 78.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Meggs, James</cell>
+                     <cell>
+                        <hi>C.</hi> 61.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Mellevil, And de</cell>
+                     <cell>
+                        <hi>O.</hi> 80.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Metford, John</cell>
+                     <cell>
+                        <hi>O.</hi> 61.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Midgley, Robert</cell>
+                     <cell>
+                        <hi>C.</hi> 87.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Millington Tho.</cell>
+                     <cell>
+                        <hi>O.</hi> 59.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Mills, Walter</cell>
+                     <cell>
+                        <hi>C.</hi> 80.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Milne, James</cell>
+                     <cell>
+                        <hi>C.</hi> 89.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Moriſon, Rob.</cell>
+                     <cell>
+                        <hi>O.</hi> 69.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Morris, Sam.</cell>
+                     <cell>
+                        <hi>O.</hi> 70.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Morris, Claverus</cell>
+                     <cell>
+                        <hi>O.</hi> 91.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Morton, Rich.</cell>
+                     <cell>
+                        <hi>O.</hi> 70.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Mott, Edm.</cell>
+                     <cell>
+                        <hi>C.</hi> 93.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Moulins, James</cell>
+                     <cell>
+                        <hi>C.</hi> 81.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Mumford, Sam.</cell>
+                     <cell>
+                        <hi>C.</hi> 94.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Muſgrave, Will.</cell>
+                     <cell>
+                        <hi>O.</hi> 89.</cell>
+                  </row>
+                  <row>
+                     <cell>N</cell>
+                     <cell>
+                        <hi>Anne</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Dr. NNeale, Geo.</cell>
+                     <cell>
+                        <hi>O.</hi> 61.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Neale, John</cell>
+                     <cell>
+                        <hi>C.</hi> 61.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Needham, Walt.</cell>
+                     <cell>
+                        <hi>C.</hi> 64.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Nelſon, Matt.</cell>
+                     <cell>
+                        <hi>C.</hi> 69.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Nicholſon, Otho</cell>
+                     <cell>
+                        <hi>C.</hi> 60.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Nicholſon, John</cell>
+                     <cell>
+                        <hi>C.</hi> 92.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Northleigh, John</cell>
+                     <cell>
+                        <hi>C.</hi> 87.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Novel, Thom.</cell>
+                     <cell>
+                        <hi>C.</hi> 75.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Nutton, John</cell>
+                     <cell>
+                        <hi>C.</hi> 85.</cell>
+                  </row>
+                  <row>
+                     <cell>O</cell>
+                     <cell>
+                        <hi>Anno</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Dr. OLdis Valent.</cell>
+                     <cell>
+                        <hi>C.</hi> 70.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Oſmord, Jo.</cell>
+                     <cell>
+                        <hi>O.</hi> 89.</cell>
+                  </row>
+                  <pb facs="tcp:48220:16"/>
+                  <row>
+                     <cell>P</cell>
+                     <cell>
+                        <hi>Anno</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Dr. PAlatinus, <hi>Carol. Elect.</hi>
+                     </cell>
+                     <cell>
+                        <hi>O.</hi> 80.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Palmer, Thom.</cell>
+                     <cell>
+                        <hi>C.</hi> 83.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Paman, Henry</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Parham, Peter</cell>
+                     <cell>
+                        <hi>C.</hi> 75.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Paris, John</cell>
+                     <cell>
+                        <hi>O.</hi> 66.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Parker, Sam.</cell>
+                     <cell>
+                        <hi>C.</hi> 71.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Parker, Will.</cell>
+                     <cell>
+                        <hi>O.</hi> 59.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Parſons, Arth.</cell>
+                     <cell>
+                        <hi>O.</hi> 93.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Paxton, Peter</cell>
+                     <cell>
+                        <hi>C.</hi> 86.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Pearſe, James</cell>
+                     <cell>
+                        <hi>C.</hi> 81.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Peirce, Rob.</cell>
+                     <cell>
+                        <hi>O.</hi> 61.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Pigot, Henry</cell>
+                     <cell>
+                        <hi>O.</hi> 92.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Pigott, George</cell>
+                     <cell>
+                        <hi>O.</hi> 93.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Pitt, Robert</cell>
+                     <cell>
+                        <hi>O.</hi> 82.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Pitt, Chriſt.</cell>
+                     <cell>
+                        <hi>O.</hi> 92.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Playters, Will.</cell>
+                     <cell>
+                        <hi>C.</hi> 65.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Polwhele, Dego.</cell>
+                     <cell>
+                        <hi>O.</hi> 60.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Poole, Matthew</cell>
+                     <cell>
+                        <hi>C.</hi> 84.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Pope, Walter</cell>
+                     <cell>
+                        <hi>O.</hi> 61.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Price, John</cell>
+                     <cell>
+                        <hi>C.</hi> 92.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Pyne, Thomas</cell>
+                     <cell>
+                        <hi>O.</hi> 91.</cell>
+                  </row>
+                  <row>
+                     <cell>R</cell>
+                     <cell>
+                        <hi>Anno</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Dr. RAdeliffe, John</cell>
+                     <cell>
+                        <hi>O.</hi> 82.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Ramſey, Will.</cell>
+                     <cell>
+                        <hi>C.</hi> 67.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Randolph, Will.</cell>
+                     <cell>
+                        <hi>C.</hi> 68.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Read, Richard</cell>
+                     <cell>
+                        <hi>O.</hi> 63.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Reyner, Rich.</cell>
+                     <cell>
+                        <hi>C.</hi> 68.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Richardſon, Rich.</cell>
+                     <cell>
+                        <hi>C.</hi> 94.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Richier, Peter</cell>
+                     <cell>
+                        <hi>O.</hi> 62.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Richier, Peter</cell>
+                     <cell>
+                        <hi>C.</hi> 74.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Ridley, Humph.</cell>
+                     <cell>
+                        <hi>C.</hi> 88.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Riſhton, Jeffery</cell>
+                     <cell>
+                        <hi>O.</hi> 61.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Rivet, John</cell>
+                     <cell>
+                        <hi>C.</hi> 70.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Robinſon, Rich.</cell>
+                     <cell>
+                        <hi>C.</hi> 80.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Robinſon, Tanck.</cell>
+                     <cell>
+                        <hi>C.</hi> 85.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Rogers, John</cell>
+                     <cell>
+                        <hi>O.</hi> 64.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Romp, Peter</cell>
+                     <cell>
+                        <hi>C.</hi> 71.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Roſe, Thomas</cell>
+                     <cell>
+                        <hi>O.</hi> 81.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Roſs, Thomas</cell>
+                     <cell>
+                        <hi>C.</hi> 71.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Rowls, Samuel</cell>
+                     <cell>
+                        <hi>C.</hi> 75.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Rude, Edward</cell>
+                     <cell>
+                        <hi>C.</hi> 71.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Rufine, James</cell>
+                     <cell>
+                        <hi>C.</hi> 74.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Ruſſel, William</cell>
+                     <cell>
+                        <hi>C.</hi> 88.</cell>
+                  </row>
+                  <row>
+                     <cell>S</cell>
+                     <cell>
+                        <hi>Anno</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Dr. SAgittary, Fred.</cell>
+                     <cell>
+                        <hi>O.</hi> 61.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Sagittarius, Jo.</cell>
+                     <cell>
+                        <hi>O.</hi> 93.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Saictot, Ant. de</cell>
+                     <cell>
+                        <hi>O.</hi> 80.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Samburne, Tho.</cell>
+                     <cell>
+                        <hi>C.</hi> 71.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Schlaer, Freder.</cell>
+                     <cell>
+                        <hi>C.</hi> 81.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Schuldham, Rob.</cell>
+                     <cell>
+                        <hi>C.</hi> 81.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Seaman, William</cell>
+                     <cell>
+                        <hi>C.</hi> 76.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Sermon, William</cell>
+                     <cell>
+                        <hi>C.</hi> 69.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Short, Thomas</cell>
+                     <cell>
+                        <hi>C.</hi> 68.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Skinner, Matth.</cell>
+                     <cell>
+                        <hi>O.</hi> 60.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Skynner, Tho.</cell>
+                     <cell>
+                        <hi>O.</hi> 72.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Skrymſher, Ger.</cell>
+                     <cell>
+                        <hi>C.</hi> 60.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Slatholme, Will.</cell>
+                     <cell>
+                        <hi>C.</hi> 60.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Slear, Freder. <hi>Palatino-Germanus,</hi>
+                     </cell>
+                     <cell>
+                        <hi>O.</hi> 80.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Smith, John</cell>
+                     <cell>
+                        <hi>O.</hi> 59.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Smith, Francis</cell>
+                     <cell>
+                        <hi>O.</hi> 89.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Smith, Richard</cell>
+                     <cell>
+                        <hi>O.</hi> 78.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Smith, Robert</cell>
+                     <cell>
+                        <hi>O.</hi> 84.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Smyth, George</cell>
+                     <cell>
+                        <hi>O.</hi> 61.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Soame, Barnham</cell>
+                     <cell>
+                        <hi>C</hi> 92.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Sparke, William</cell>
+                     <cell>
+                        <hi>O.</hi> 61.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Speed, John</cell>
+                     <cell>
+                        <hi>O.</hi> 66.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Spencer, Thomas</cell>
+                     <cell>
+                        <hi>C.</hi> 70.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Sprackling, Rob.</cell>
+                     <cell>
+                        <hi>C.</hi> 62.</cell>
+                  </row>
+                  <pb facs="tcp:48220:16"/>
+                  <row>
+                     <cell>Dr. Stanley, Nich.</cell>
+                     <cell>
+                        <hi>O.</hi> 60.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Stanley, Nich.</cell>
+                     <cell>
+                        <hi>O.</hi> 90.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Stapley, Robert</cell>
+                     <cell>
+                        <hi>O.</hi> 61.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Stillingfleet, Ed.</cell>
+                     <cell>
+                        <hi>C.</hi> 92.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Stokes, Richard</cell>
+                     <cell>
+                        <hi>C.</hi> 63.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Sturton, Edward</cell>
+                     <cell>
+                        <hi>C.</hi> 60.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Sutton, Thomas</cell>
+                     <cell>
+                        <hi>O.</hi> 92.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Sydenham, Tho.</cell>
+                     <cell>
+                        <hi>C.</hi> 76.</cell>
+                  </row>
+                  <row>
+                     <cell>T</cell>
+                     <cell>
+                        <hi>Anno</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Dr. TAdlow, Char.</cell>
+                     <cell>
+                        <hi>O.</hi> 93.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Thomas, Da.</cell>
+                     <cell>
+                        <hi>O.</hi> 70.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Threapland, Sam.</cell>
+                     <cell>
+                        <hi>C.</hi> 82.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Thurſton, Ger.</cell>
+                     <cell>
+                        <hi>O.</hi> 93.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Thurſton, Mal.</cell>
+                     <cell>
+                        <hi>C.</hi> 64.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Torleſſe, Rich.</cell>
+                     <cell>
+                        <hi>O.</hi> 66.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Townes, Thom.</cell>
+                     <cell>
+                        <hi>C.</hi> 74.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Trever, Richard</cell>
+                     <cell>
+                        <hi>O.</hi> 61.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Triplet, Ralph</cell>
+                     <cell>
+                        <hi>C.</hi> 61.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Troutback, John</cell>
+                     <cell>
+                        <hi>C.</hi> 61.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Turbervile, Dawb</cell>
+                     <cell>
+                        <hi>O.</hi> 60.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Twyſden, Char.</cell>
+                     <cell>
+                        <hi>O.</hi> 77.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Tyſon, Edward</cell>
+                     <cell>
+                        <hi>C.</hi> 80.</cell>
+                  </row>
+                  <row>
+                     <cell>V</cell>
+                     <cell>
+                        <hi>Anno</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Dr. VAſſon, Peter</cell>
+                     <cell>
+                        <hi>O.</hi> 59.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Vaughan, Wi.</cell>
+                     <cell>
+                        <hi>C.</hi> 74.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Vaux, <hi>Sir</hi> The. de</cell>
+                     <cell>
+                        <hi>O.</hi> 68.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Vendoſme, Pr. G.</cell>
+                     <cell>
+                        <hi>C.</hi> 80.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Veningen Eber. Fre<g ref="char:EOLhyphen"/>derick, <hi>&amp;c.</hi>
+                     </cell>
+                     <cell>
+                        <hi>O.</hi> 80.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Vic, Henry de, <hi>Knight</hi>
+                     </cell>
+                     <cell>
+                        <hi>O.</hi> 63.</cell>
+                  </row>
+                  <row>
+                     <cell>W</cell>
+                     <cell>
+                        <hi>Anno</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Dr. WWalker, William</cell>
+                     <cell>
+                        <hi>C.</hi> 87.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Wallace, John</cell>
+                     <cell>
+                        <hi>C.</hi> 83.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Wallpoole, Art.</cell>
+                     <cell>
+                        <hi>C.</hi> 60.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Warde, Hamnet</cell>
+                     <cell>
+                        <hi>O.</hi> 61.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Warner, William</cell>
+                     <cell>
+                        <hi>O.</hi> 76.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Waterhouſe, Tho.</cell>
+                     <cell>
+                        <hi>O.</hi> 69.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Watſon, Henry</cell>
+                     <cell>
+                        <hi>C.</hi> 73.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Welman, Simon</cell>
+                     <cell>
+                        <hi>C.</hi> 86.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Whitwell, Will.</cell>
+                     <cell>
+                        <hi>C.</hi> 60.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Wigmore, Will.</cell>
+                     <cell>
+                        <hi>C.</hi> 81.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Williams, David</cell>
+                     <cell>
+                        <hi>O.</hi> 83.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Williams, Tho.</cell>
+                     <cell>
+                        <hi>C.</hi> 68.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Willis, Nathan.</cell>
+                     <cell>
+                        <hi>C.</hi> 61.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Willis, Thomas</cell>
+                     <cell>
+                        <hi>O.</hi> 60.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Willis, Francis</cell>
+                     <cell>
+                        <hi>O.</hi> 94.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Willughby, Char.</cell>
+                     <cell>
+                        <hi>O.</hi> 64.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Wilſon, Richard</cell>
+                     <cell>
+                        <hi>O.</hi> 94.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Willinghby, Char.</cell>
+                     <cell>
+                        <hi>O.</hi> 64.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Wilſon, Richard</cell>
+                     <cell>
+                        <hi>O.</hi> 94.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Witty, Robert</cell>
+                     <cell>
+                        <hi>O.</hi> 80.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Wivell, Henry</cell>
+                     <cell>
+                        <hi>C.</hi> 62.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Woodgate, Sam</cell>
+                     <cell>
+                        <hi>C.</hi> 93.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Woodlaſton, John</cell>
+                     <cell>
+                        <hi>C.</hi> 93.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Wren, Thomas</cell>
+                     <cell>
+                        <hi>O.</hi> 60.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Wrench, Robert</cell>
+                     <cell>
+                        <hi>C.</hi> 71.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Wrench Benja.</cell>
+                     <cell>
+                        <hi>C.</hi> 94.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Wrigglyſworth, Edw.</cell>
+                     <cell>
+                        <hi>O.</hi> 79.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Wright, Laur.</cell>
+                     <cell>
+                        <hi>C.</hi> 66.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Wright, John</cell>
+                     <cell>
+                        <hi>C.</hi> 84.</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. Wyat, Henry</cell>
+                     <cell>
+                        <hi>O.</hi> 60.</cell>
+                  </row>
+                  <row>
+                     <cell>Y</cell>
+                     <cell>
+                        <hi>Anno</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Dr. YArborough, Edw.</cell>
+                     <cell>
+                        <hi>C.</hi> 65.</cell>
+                  </row>
+               </table>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:48220:17"/>
+            <head>ADVERTISEMENT.</head>
+            <p>THE <hi>Monopoly</hi> of Phyſick in <hi>Warwick<g ref="char:EOLhyphen"/>lane,</hi> Vulgarly called the <hi>College,</hi> at pre<g ref="char:EOLhyphen"/>ſent conſiſts of 73 Fellows (formerly 40) 5 Candidates, 11 Honorary Fellows, and 40 Licentiates, in all 129, ſeveral of which are no <hi>Doctors,</hi> and ſcarce 40 Regular <hi>Doctors,</hi> either in <hi>Oxford</hi> or <hi>Cambridge;</hi> which Augmentation of Fellows was begun in the late King <hi>James</hi>'s time, by Vertue of his <hi>Gracious Charter,</hi> as they call it Twice in a Paper, Publiſhed by them in the Year 1688, with this Title;</p>
+            <p>His Moſt Sacred MAJESTIES, To His Moſt Honourable Privy Councils LETTERS, Relating to the <hi>College of Phyſicians.</hi>
+            </p>
+            <p>Which <hi>Title,</hi> we leave to the Engliſh Reader to make ſenſe of if he can, And then let him try to find truth in the <hi>Paper.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
